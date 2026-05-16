@@ -1,0 +1,119 @@
+---
+title: "CV"
+css: cv.css
+---
+
+
+<div class="cv-header">
+  <h1>Nicola Fitz-Simon</h1>
+  <h3> </h3>
+  <h3>Lecturer in Statistical Science</h3>
+  <h3>nicola.fitz-simon@universityofgalway.ie</h3>
+</div>
+
+
+
+
+## Academic Positions
+
+::::: cv-entry
+::: cv-left
+<strong class="cv-title">Lecturer in Statistical Science (above the bar)</strong>, School of Mathematical and Statistical Sciences, University of Galway
+:::
+
+::: cv-right
+10/2022–present
+:::
+:::::
+
+::::: cv-entry
+::: cv-left
+<strong class="cv-title">Lecturer in Medical Biostatistics (above the bar)</strong>, Clinical Research Facility Galway, University of Galway
+:::
+
+::: cv-right
+12/2018-5/2022
+:::
+:::::
+
+::::: cv-entry
+::: cv-left
+<strong class="cv-title">Teaching Fellow in Statistics</strong>, Department of Mathematics, Imperial College London
+:::
+
+::: cv-right
+10/2014-12/2018
+:::
+:::::
+
+::::: cv-entry
+::: cv-left
+<strong class="cv-title">Senior Statistician</strong>, Department of Neonatal Medicine, Imperial College London
+:::
+
+::: cv-right
+9/2012-9/2014
+:::
+:::::
+
+::::: cv-entry
+::: cv-left
+<strong class="cv-title">Lecturer in Biostatistics</strong>, Department of Social and Environmental Health Research, London School of Hygiene and Tropical Medicine
+:::
+
+::: cv-right
+4/2010-9/2012
+:::
+:::::
+
+::::: cv-entry
+::: cv-left
+<strong class="cv-title">Statistician/Epidemiologist</strong>, National Perinatal Epidemiology Unit, University of Oxford
+:::
+
+::: cv-right
+10/2008-3/2010
+:::
+:::::
+
+::::: cv-entry
+::: cv-left
+<strong class="cv-title">Statistician</strong>, School of Public Health and Population Science, University College Dublin
+:::
+
+::: cv-right
+11/2004-10/2008
+:::
+:::::
+
+## Education
+
+::::: cv-entry
+::: cv-left
+<strong class="cv-title">MSc in University Teaching and Learning</strong>, Imperial College London
+:::
+
+::: cv-right
+2018
+:::
+:::::
+
+::::: cv-entry
+::: cv-left
+<strong class="cv-title">PhD in Biostatistics</strong>, Trinity College Dublin
+:::
+
+::: cv-right
+2006
+:::
+:::::
+
+::::: cv-entry
+::: cv-left
+<strong class="cv-title">MSc in Statistics</strong>, Trinity College Dublin
+:::
+
+::: cv-right
+2000
+:::
+:::::

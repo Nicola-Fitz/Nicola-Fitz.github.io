@@ -9,8 +9,8 @@ website:
     left:
       - text: Home
         href: index.qmd
-      # - text: CV
-      #   href: Curriculum_vitae_NF2022.pdf
+      - text: CV
+        href: cv.qmd
 
     right:
       - icon: house
