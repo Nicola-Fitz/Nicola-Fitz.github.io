@@ -14,7 +14,7 @@ I currently teach Statistics for Data Science, Statistical Learning and Predicti
 
 ## Open PhD Position
 
-**Applications are invited for a funded PhD in statistics focusing on causal inference and small area estimation.**
+**I welcome applications from suitably qualified candidates for a funded PhD in statistics focusing on causal inference and small area estimation.**
 
 [PhD position description (PDF)](PhD_SAE_causal.pdf)
 
