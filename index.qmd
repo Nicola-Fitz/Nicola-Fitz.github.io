@@ -12,11 +12,11 @@ My research interests include causal inference, small area estimation, and hiera
 
 I currently teach Statistics for Data Science, Statistical Learning and Prediction Modelling, and Causal Inference.  I am co-ordinator of the final year undergraduate projects in the School, and supervise both undergraduate and postgraduate theses.  
 
-## Open PhD Position
+## PhD opportunities
 
-**I welcome applications from suitably qualified candidates for a funded PhD in statistics, focusing on causal inference and small area estimation.**
+**Thank you to all applicants to the recent funded PhD in statistics, focusing on causal inference and small area estimation.  Please check here for future opportunities**
 
-[PhD position description (PDF)](PhD_SAE_causal.pdf)
+
 
 
 
